@@ -1,4 +1,4 @@
-lea# Hello World
+# Hello World
 
 ## Overview
 
